@@ -7,8 +7,6 @@ import main.ru.rbs.exception.InvalidParamException;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Arrays;
 
 import static main.ru.rbs.config.ApplicationSettings.DATE_PATTERN;
 
